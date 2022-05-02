@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [glen-nguyen.com](glen-nguyen.com)
 
