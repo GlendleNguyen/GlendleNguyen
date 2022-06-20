@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Glen</h1>
-<h3 align="center">A CS student from Western Australia</h3>
+<h3 align="center">A final year CS student from Western Australia</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, TypeScript, Next.js, Firebase**
 
 - 👨‍💻 All of my projects are available at [glen-nguyen.com](glen-nguyen.com)
 
