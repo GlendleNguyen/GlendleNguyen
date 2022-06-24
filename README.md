@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glendlenguyen&label=Profile%20views&color=0e75b6&style=flat" alt="glendlenguyen" /> </p>
 
-- 🔭 I’m currently working on **POOPS**
+- 🔭 I’m currently working on **CFC's POOPS Project**
 
 - 🌱 I’m currently learning **React, Firebase**
 
