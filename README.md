@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI, Secure Coding, and Professional Computing**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue, node.js**
 
 - 👨‍💻 All of my projects are available at [glen-nguyen.com](glen-nguyen.com)
 
