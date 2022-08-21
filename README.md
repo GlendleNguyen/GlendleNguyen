@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Vue, node.js**
 
-- 👨‍💻 All of my projects are available at [glen-nguyen.com](glen-nguyen.com)
-
 - 📫 How to reach me **glendle.nguyen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
