@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NuxtJS, ExpressJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [glen-nguyen.com](glen-nguyen.com)
+- 👨‍💻 All of my projects are available at [glen-nguyen.com](https://www.glen-nguyen.com/)
 
 - 💬 Ask me about **react and vue**
 
