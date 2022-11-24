@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glendlenguyen&label=Profile%20views&color=0e75b6&style=flat" alt="glendlenguyen" /> </p>
 
-- 🔭 I’m currently working on [AppSpire](https://huxtable-app-spire-eight.vercel.app/)
+- 🔭 I’m currently working on CFC's WADL project)
 
-- 🌱 I’m currently learning **NuxtJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **Nuxt 3, Firebase**
 
-- 👨‍💻 All of my projects are available at [glen-nguyen.com](https://www.glen-nguyen.com/)
-
-- 💬 Ask me about **react and vue**
+- 💬 Ask me about **how i'm coping**
 
 - 📫 How to reach me **glendle.nguyen@gmail.com**
 
