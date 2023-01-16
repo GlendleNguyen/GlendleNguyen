@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Nuxt 3, Firebase**
 
-- 💬 Ask me about **how i'm coping**
-
 - 📫 How to reach me **glendle.nguyen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
