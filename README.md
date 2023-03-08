@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Glen</h1>
-<h3 align="center">A final year CS student at UWA</h3>
+<h3 align="center">A Graduate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glendlenguyen&label=Profile%20views&color=0e75b6&style=flat" alt="glendlenguyen" /> </p>
 
-- 🔭 I’m currently working on CFC's WADL project)
+- 🔭 I’m currently working on internal CBA web apps :)
 
-- 🌱 I’m currently learning **Nuxt 3, Firebase**
+- 🌱 I’m currently learning **Angular, TypeScript, C#, .NET**
 
 - 📫 How to reach me **glendle.nguyen@gmail.com**
 
