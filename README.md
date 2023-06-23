@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glendlenguyen&label=Profile%20views&color=0e75b6&style=flat" alt="glendlenguyen" /> </p>
 
-- 🔭 I’m currently working on internal CBA web apps :)
+- 🔭 I’m currently working in CBA's Retail Technology - Integrated Channels :)
 
 - 🌱 I’m currently learning **Angular, TypeScript, C#, .NET**
 
