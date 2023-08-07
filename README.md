@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, TypeScript, C#, .NET**
 
-- 📫 How to reach me **glendle.nguyen@gmail.com**
+- 📫 How to reach me **glen.nguyen@cba.com.au**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
