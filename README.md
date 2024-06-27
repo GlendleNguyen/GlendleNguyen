@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glendlenguyen&label=Profile%20views&color=0e75b6&style=flat" alt="glendlenguyen" /> </p>
 
-- 🔭 I’m currently working in CBA's Retail Technology - Integrated Channels :)
+- 🔭 I’m currently working in CBA's Complaints Transformation space :)
 
-- 🌱 I’m currently learning **Angular, TypeScript, C#, .NET**
+- 🌱 I’m currently using **React, TypeScript, C#, .NET**
 
 - 📫 How to reach me **glen.nguyen@cba.com.au**
 
